@@ -14,3 +14,8 @@
 	- [[3.10.25 Probability & Statistics Class Notes]] | Binomial Distribution and Negative Binomial Distribution
 - **Seventh Week**
 	- [[6.10.25 Probability & Statistics Class Notes]] | Geometric Distribution and Negative Binomial Distribution
+
+## Chapter 3
+
+- **Ninth Week**
+	- [[20.10.25 Probability & Statistics Class Notes]] | Uniform Distribution & Quantile (Percentile)
