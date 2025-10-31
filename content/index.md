@@ -21,3 +21,5 @@
 	- [[20.10.25 Probability & Statistics Class Notes]] | Uniform Distribution & Quantile (Percentile)
 	- [[22.10.25 Probability & Statistics Class Notes]] | Exponential Distribution & Memoryless Property of Exponential RVs
 	- [[24.10.25 Probability & Statistics Class Notes]] | Memoryless Property of Exponential RVs and Gamma Distribution
+- **Tenth Week**
+	- [[31.10.25 Probability & Statistics Class Notes]] | Standard Normal Distribution (Standardization, MGF, Percentile)
