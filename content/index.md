@@ -23,3 +23,8 @@
 	- [[24.10.25 Probability & Statistics Class Notes]] | Memoryless Property of Exponential RVs and Gamma Distribution
 - **Tenth Week**
 	- [[31.10.25 Probability & Statistics Class Notes]] | Standard Normal Distribution (Standardization, MGF, Percentile)
+
+## **Chapter 4**
+
+- **Eleventh Week**
+	- [[7.11.25 Probability & Statistics Class Notes]] | Expectations of Multivariate RVS | Covariance and Correlation of two RVs
