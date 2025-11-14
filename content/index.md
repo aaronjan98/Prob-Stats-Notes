@@ -28,3 +28,6 @@
 
 - **Eleventh Week**
 	- [[7.11.25 Probability & Statistics Class Notes]] | Expectations of Multivariate RVS | Covariance and Correlation of two RVs
+- **Twelfth Week**
+	- [[12.11.25 Probability & Statistics Class Notes]] | Distributions of Bivariate Continuous RVs (Independence & Expectation)
+	- [[14.11.25 Probability & Statistics Class Notes]] | Finish up Ch.4 with examples
