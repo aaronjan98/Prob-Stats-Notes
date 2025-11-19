@@ -31,3 +31,8 @@
 - **Twelfth Week**
 	- [[12.11.25 Probability & Statistics Class Notes]] | Distributions of Bivariate Continuous RVs (Independence & Expectation)
 	- [[14.11.25 Probability & Statistics Class Notes]] | Finish up Ch.4 with examples
+
+## **Chapter 5**
+
+- **Thirteenth Week**
+	- [[17.11.25 Probability & Statistics Class Notes]] | Several Random Variables (Covariances and Independence)
