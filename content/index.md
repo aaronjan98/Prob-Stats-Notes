@@ -37,3 +37,4 @@
 - **Thirteenth Week**
 	- [[17.11.25 Probability & Statistics Class Notes]] | Several Random Variables (Covariances and Independence)
 	- [[19.11.25 Probability & Statistics Class Notes]] | Several Random Variables (Independence) | Sample mean and variance of iid RVs | Normal Distributions and Standardization of the sample mean $\overline{X}$
+	- [[21.11.25 Probability & Statistics Class Notes]] | Standardization of $\overline{ X }$ | Central Limit Theorem (CLT)
