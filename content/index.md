@@ -40,3 +40,5 @@
 	- [[21.11.25 Probability & Statistics Class Notes]] | Standardization of $\overline{ X }$ | Central Limit Theorem (CLT)
 - **Fourteenth Week**
 	- [[26.11.25 Probability & Statistics Class Notes]] | Midterm II Review
+ - **Fifteenth Week**
+	- [[3.12.25 Probability & Statistics Class Notes]] | Central Limit Theorem (CLT) | Moment Generating Function of Multivariate Independent Random Variables
