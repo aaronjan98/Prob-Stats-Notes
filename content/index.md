@@ -43,3 +43,8 @@
  - **Fifteenth Week**
 	- [[3.12.25 Probability & Statistics Class Notes]] | Central Limit Theorem (CLT) | Moment Generating Function of Multivariate Independent Random Variables
 	- [[5.12.25 Probability & Statistics Class Notes]] | Moment Generating Functions | Distribution of $\mathbf{Y = g(x)}$ (The Jacobian)
+
+## **Chapter 6**
+
+- **Sixteenth Week**
+	- [[10.12.25 Probability & Statistics Class Notes]] | Sample Linear Regression
